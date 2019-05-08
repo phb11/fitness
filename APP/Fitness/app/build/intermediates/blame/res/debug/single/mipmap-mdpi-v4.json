@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

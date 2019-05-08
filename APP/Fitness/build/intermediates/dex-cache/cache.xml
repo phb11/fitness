@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9169bda4c3ebb91a33ccfe5a1a46cbffd3c4cd94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb442245b73ddf75204a58d961f40debd8ce9723">
+        <dex dex="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_574e3259657cf9f1d73b9671215c8724c79c864c\classes.dex" />
+    </item>
+
+</items>
