@@ -1,8 +1,6 @@
 package com.lilei.fitness.entity;
 
-/**
- * Created by djzhao on 17/04/30.
- */
+
 
 public class User {
     private int userId;

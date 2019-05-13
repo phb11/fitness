@@ -14,9 +14,7 @@ import com.lilei.fitness.entity.NewsListForFound;
 import java.util.List;
 import java.util.zip.Inflater;
 
-/**
- * Created by djzhao on 17/04/30.
- */
+
 
 public class FoundNewsAdapter extends BaseAdapter {
 

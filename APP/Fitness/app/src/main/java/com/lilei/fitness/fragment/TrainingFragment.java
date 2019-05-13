@@ -13,9 +13,7 @@ import android.widget.Toast;
 import com.lilei.fitness.R;
 import com.lilei.fitness.view.VideoPlayer;
 
-/**
- * Created by djzhao on 17/04/30.
- */
+
 
 public class TrainingFragment extends Fragment implements View.OnClickListener {
 

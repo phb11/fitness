@@ -6,9 +6,7 @@ import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.LinearLayout;
 
-/**
- * Created by djzhao on 17/05/02.
- */
+
 
 public class LinearLayoutForListView extends LinearLayout {
 

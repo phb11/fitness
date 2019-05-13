@@ -17,9 +17,7 @@ import java.util.List;
 import com.lilei.fitness.R;
 import com.lilei.fitness.entity.Comment;
 
-/**
- * Created by djzhao on 17/05/02.
- */
+
 
 public class NewsDetailCommnetsAdapter extends BaseAdapter {
 

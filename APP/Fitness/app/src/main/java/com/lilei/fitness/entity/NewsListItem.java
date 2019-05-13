@@ -1,8 +1,6 @@
 package com.lilei.fitness.entity;
 
-/**
- * Created by djzhao on 17/05/05.
- */
+
 
 public class NewsListItem {
 

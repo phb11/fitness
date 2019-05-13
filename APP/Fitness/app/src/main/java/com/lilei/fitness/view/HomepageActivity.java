@@ -24,9 +24,7 @@ import com.zhy.http.okhttp.callback.StringCallback;
 
 import okhttp3.Call;
 
-/**
- * Created by djzhao on 17/05/01.
- */
+
 
 public class HomepageActivity extends BaseActivity implements View.OnClickListener {
 

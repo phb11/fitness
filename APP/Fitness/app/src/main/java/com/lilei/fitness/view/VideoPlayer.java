@@ -30,9 +30,7 @@ import java.util.ArrayList;
 
 import okhttp3.Call;
 
-/**
- * Created by djzhao on 17/04/29.
- */
+
 
 public class VideoPlayer extends BaseActivity {
 

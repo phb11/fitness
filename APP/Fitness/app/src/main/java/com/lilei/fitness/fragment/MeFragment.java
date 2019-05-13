@@ -30,9 +30,7 @@ import com.zhy.http.okhttp.callback.StringCallback;
 
 import okhttp3.Call;
 
-/**
- * Created by djzhao on 17/04/30.
- */
+
 
 public class MeFragment extends Fragment implements View.OnClickListener {
 

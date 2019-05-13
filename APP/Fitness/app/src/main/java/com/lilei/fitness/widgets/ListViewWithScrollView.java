@@ -4,9 +4,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ListView;
 
-/**
- * Created by djzhao on 17/05/02.
- */
+
 
 public class ListViewWithScrollView extends ListView {
     public ListViewWithScrollView(Context context) {

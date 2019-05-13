@@ -15,9 +15,7 @@ import com.lilei.fitness.view.base.BaseActivity;
 
 import java.util.Map;
 
-/**
- * Created by djzhao on 17/05/01.
- */
+
 
 public class ConfigActivity extends BaseActivity implements View.OnClickListener {
 

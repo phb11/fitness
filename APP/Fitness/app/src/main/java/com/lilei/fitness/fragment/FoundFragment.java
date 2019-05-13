@@ -31,9 +31,7 @@ import java.util.UUID;
 
 import okhttp3.Call;
 
-/**
- * Created by djzhao on 17/04/30.
- */
+
 
 public class FoundFragment extends Fragment implements AdapterView.OnItemClickListener {
 

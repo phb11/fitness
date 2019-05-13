@@ -12,9 +12,7 @@ import com.lilei.fitness.entity.NewsListItem;
 
 import java.util.List;
 
-/**
- * Created by djzhao on 17/05/04.
- */
+
 
 public class NormalListAdapter extends BaseAdapter {
 

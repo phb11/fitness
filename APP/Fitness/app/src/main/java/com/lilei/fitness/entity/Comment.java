@@ -1,7 +1,7 @@
 package com.lilei.fitness.entity;
 
 /**
- * Created by djzhao on 17/05/02.
+ * Created by phb on 19/05/02.
  */
 
 public class Comment {

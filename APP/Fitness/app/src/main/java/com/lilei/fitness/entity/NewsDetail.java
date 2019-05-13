@@ -2,9 +2,7 @@ package com.lilei.fitness.entity;
 
 import java.util.List;
 
-/**
- * Created by djzhao on 17/05/02.
- */
+
 
 public class NewsDetail {
 

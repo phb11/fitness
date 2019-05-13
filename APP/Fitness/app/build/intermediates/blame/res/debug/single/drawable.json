@@ -12,12 +12,12 @@
         "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\drawable\\ic_comment_normal.png"
     },
     {
-        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_4.png",
-        "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\drawable\\loading_4.png"
-    },
-    {
         "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_4.png",
+        "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\drawable\\loading_4.png"
     },
     {
         "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_edit.png",
@@ -84,12 +84,12 @@
         "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\drawable\\icon_alert_comment.png"
     },
     {
-        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_add.png",
         "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\drawable\\icon_add.png"
+    },
+    {
+        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",

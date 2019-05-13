@@ -41,9 +41,7 @@ import java.util.UUID;
 import okhttp3.Call;
 import okhttp3.MediaType;
 
-/**
- * Created by djzhao on 17/05/01.
- */
+
 
 public class ReleaseNewsActivity extends BaseActivity implements View.OnClickListener {
 

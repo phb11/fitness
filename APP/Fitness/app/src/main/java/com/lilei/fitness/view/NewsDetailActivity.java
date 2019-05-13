@@ -37,9 +37,7 @@ import java.util.List;
 import okhttp3.Call;
 import okhttp3.Request;
 
-/**
- * Created by djzhao on 17/05/02.
- */
+
 
 public class NewsDetailActivity extends BaseActivity implements View.OnClickListener {
 

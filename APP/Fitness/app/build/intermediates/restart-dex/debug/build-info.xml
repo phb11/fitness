@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1557022815372"
+    timestamp="1557743070996"
     token="1594487412730155991"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -24,13 +24,10 @@
         duration="0" />
 
     <artifact
-        location="F:\fitness_Android-master\APP\Fitness\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
         location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -59,19 +56,19 @@
     <artifact
         location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
+    <artifact
+        location="F:\fitness_Android-master\APP\Fitness\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1557022815372"
+        timestamp="1557743070996"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\fitness_Android-master\APP\Fitness\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -100,6 +97,9 @@
         <artifact
             location="F:\fitness_Android-master\APP\Fitness\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
+        <artifact
+            location="F:\fitness_Android-master\APP\Fitness\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
