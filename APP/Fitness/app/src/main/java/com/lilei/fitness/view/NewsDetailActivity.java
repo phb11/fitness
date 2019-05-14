@@ -281,7 +281,7 @@ public class NewsDetailActivity extends BaseActivity implements View.OnClickList
         OkHttpUtils
                 .get()//
                 .url(url)//
-                .addParams("imageName", imageName)
+                .addParams("imageName", "timg3.png")
                 .build()//
                 .execute(new BitmapCallback() {
                     @Override

@@ -12,12 +12,12 @@
         "source": "F:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\layout\\title_custom.xml"
     },
     {
-        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\P大人\\.android\\build-cache\\5991cc4617a6552838540d5aa36d498ce2028395\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
         "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album.xml",
         "source": "C:\\Users\\P大人\\.android\\build-cache\\c54b9e6f0aba6843a9561dca37789288f8c95a32\\output\\res\\layout\\activity_photo_album.xml"
+    },
+    {
+        "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\5991cc4617a6552838540d5aa36d498ce2028395\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "F:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
